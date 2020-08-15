@@ -1,0 +1,12 @@
+{
+	"servers": ["https://raw.githubusercontent.com/Arno736/AGQ/master/"],
+	"supportUrl": "https://github.com/Arno736/AGQ/issues",
+	"name": "AutoGuildQuest",
+	"author": "Arno736",
+	"description": "Automatically take guild quest",
+	"version": "1.0",
+	"options": {
+		"niceName": "AutoGuildQuest",
+		"guiName": "AutoGuildQuest"
+	}
+}
